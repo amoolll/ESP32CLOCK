@@ -7,6 +7,7 @@ full-screen "Only Clock" mode with a choice of fonts — all configurable
 from a built-in web UI, no app or cloud account required.
 
 ![status](https://img.shields.io/badge/status-actively--developed-brightgreen)
+
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/2bab6793-f848-4712-9940-251a136d3e8e" />
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/325d4393-0535-4efc-b0aa-4c111801c188" />
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/1b7b620c-604d-411a-b0a6-83f22048128e" />
